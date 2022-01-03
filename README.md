@@ -11,5 +11,6 @@ un blog increible para el [curso de Git y Github](https://platzi.com/clases/git-
 *Las personalidades múltiples de Freddy
 *Creado por el increible Daniel Vinzia
 *Incluye jemplos en Windows, Linux y Mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TEMES EN SERIO y mejor ve [a ver el curso](https://platzi.com/clases/git-github/ "a ver el curso")
